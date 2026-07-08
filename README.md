@@ -1,6 +1,6 @@
 # esbg: Equal-Size Binary Grouping for Polarization Measurement
 
-<img src="man/figures/esbg-logo.svg" align="right" height="160" alt="esbg logo" />
+<img align="right" width="190" src="man/figures/esbg-logo.svg" alt="esbg logo">
 
 ![Language: R](https://img.shields.io/badge/Language-R-276DC3?logo=r&logoColor=white)
 [![Version: 0.0.0.9000](https://img.shields.io/badge/version-0.0.0.9000-blue.svg)](https://github.com/Tang-SIMSOC/esbg)
