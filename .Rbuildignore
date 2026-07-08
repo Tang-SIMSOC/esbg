@@ -1,0 +1,12 @@
+^\.git$
+^\.gitignore$
+^\.github$
+^\.Rproj\.user$
+^README\.Rmd$
+^cran-comments\.md$
+^pkgdown$
+^docs$
+^man/figures/esbg-logo-preview\.png$
+^man/figures/esbg-logo\.svg\.png$
+^man/figures/esbg-logo-scheme-[A-Z]\.png$
+^man/figures/esbg-logo-color-schemes\.png$

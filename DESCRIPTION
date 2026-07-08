@@ -1,0 +1,25 @@
+Package: esbg
+Title: Equal-Size Binary Grouping for Polarization Measurement
+Version: 0.0.0.9000
+Author: tang-simsoc
+Maintainer: tang-simsoc <Tang-SIMSOC@users.noreply.github.com>
+Authors@R: c(
+    person("tang-simsoc", role = c("aut", "cre"), email = "Tang-SIMSOC@users.noreply.github.com")
+  )
+Description: Apply Equal-Size Binary Grouping (ESBG), a group-based approach
+    for measuring (bi-)polarization without predefined group structures. The
+    package searches for two equal-sized groups, computes within-group and
+    between-group heterogeneity, reports the ESBG polarization index, and
+    visualizes two-dimensional fits.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends:
+    R (>= 3.6.0)
+Imports:
+    ggplot2
+Suggests:
+    anticlust,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
