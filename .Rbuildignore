@@ -1,6 +1,7 @@
 ^\.git$
 ^\.gitignore$
 ^\.github$
+^LICENSE\.md$
 ^\.Rproj\.user$
 ^README\.Rmd$
 ^cran-comments\.md$
